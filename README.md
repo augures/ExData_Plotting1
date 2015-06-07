@@ -1,3 +1,7 @@
+## NOTE FOR PEER REVIEWERS
+
+I started this course last month, but at some point didn't have time to finish it, so I enrolled this month to go finish it. A code for this assignment I already have created last month though.
+
 ## Introduction
 
 This assignment uses data from
